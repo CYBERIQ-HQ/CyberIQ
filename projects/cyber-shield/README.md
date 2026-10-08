@@ -1,5 +1,7 @@
 # Cyber Shield — ESP32 Defense System
 
+<p align="center"><img src="shield-device.jpg" width="520" alt="Cyber Shield device"></p>
+
 <div dir="rtl">
 
 **نظام مدمج لمراقبة الأمن اللاسلكي** مبني على متحكم **ESP32-WROOM-32**، يعمل كعقدة دفاعية مستقلة تمسح نطاق 2.4 غيغاهرتز، وتصنّف التهديدات، وتنبّه عليها في الوقت الحقيقي.

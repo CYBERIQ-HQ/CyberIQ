@@ -1,5 +1,7 @@
 # TSS — Tactical SIGINT Suite
 
+<p align="center"><img src="tss-device.jpg" width="640" alt="Tactical SIGINT Suite"></p>
+
 <div dir="rtl">
 
 **منظومة استطلاع إلكتروني محمولة** (حقيبة تكتيكية متكاملة) تعتمد على **الراديو المعرّف برمجياً (SDR)** والذكاء الاصطناعي، لتحليل الطيف الترددي وكشف التهديدات اللاسلكية وتحديد اتجاه ومصدر الإشارة.

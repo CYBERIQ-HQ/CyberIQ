@@ -1,5 +1,7 @@
 # TV Box HomeSOC
 
+<p align="center"><img src="tvbox-dashboard.jpg" width="640" alt="TV Box HomeSOC dashboard"></p>
+
 <div dir="rtl">
 
 **مركز عمليات أمنية مصغّر** يحوّل جهاز **Android TV Box** إلى خادم أمني يعمل بنظام **Linux**، لمراقبة الشبكة وإدارتها وتحليل الأحداث الأمنية داخل الشبكات الصغيرة والمتوسطة.

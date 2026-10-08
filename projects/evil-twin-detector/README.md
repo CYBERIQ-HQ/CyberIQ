@@ -1,5 +1,7 @@
 # Evil Twin Detector
 
+<p align="center"><img src="evil-twin-device.jpg" width="520" alt="Evil Twin Detector"></p>
+
 <div dir="rtl">
 
 **كاشف التوأم الخبيث** — مراقب أمني ذكي لشبكات Wi-Fi مبني على **Raspberry Pi Pico W**، يكشف نقاط الوصول المزيفة (Evil Twin / Rogue AP) في الوقت الحقيقي.

@@ -1,5 +1,7 @@
 # CSS — Cyber Sentinel System
 
+<p align="center"><img src="css-device.jpg" width="520" alt="CSS Cyber Sentinel System"></p>
+
 <div dir="rtl">
 
 **مختبر أمن سيبراني صغير ومحمول** مبني على **Raspberry Pi 5** يعمل بنظام **Kali Linux**، يتحوّل إلى أداة لمراقبة وتحليل الشبكات واكتشاف المشاكل الأمنية فيها بشكل قانوني.
