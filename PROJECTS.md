@@ -2,19 +2,19 @@
 
 <div dir="rtl">
 
-مشاريع سايبر آي كيو في العتاد والبرمجيات. كل مشروع سيُنشر في مجلده الخاص أو مستودعه الخاص ضمن منظمة [CYBERIQ-HQ](https://github.com/CYBERIQ-HQ) مع التوثيق الكامل.
+مشاريع فريق **سايبر آي كيو** في العتاد والبرمجيات. لكل مشروع مجلد خاص بداخله README يشرحه بالتفصيل.
 
-| # | المشروع | النوع | الوصف المختصر | الحالة |
+| # | المشروع | المنصة | المجال | الحالة |
 |---|---|---|---|---|
-| 1 | **CSS — Cyber Sentinel System** | عتاد + برمجيات | نظام رصد وحماية أمنية | قيد التوثيق |
-| 2 | **TV Box HomeSOC** | عتاد + برمجيات | مركز عمليات أمنية منزلي مبني على جهاز TV Box منخفض الكلفة | قيد التوثيق |
-| 3 | **Cyber Shield** | برمجيات | منظومة حماية | قيد التوثيق |
-| 4 | **Evil Twin Detector** | عتاد + برمجيات | كشف نقاط الوصول اللاسلكية المزيفة (Evil Twin) | قيد التوثيق |
-| 5 | **TSS — Tactical SIGINT Suite** | عتاد + برمجيات | منظومة رصد وتحليل الإشارات | قيد التوثيق |
-| 6 | **CS SOC** | برمجيات | منصة مركز عمليات أمنية | قيد التوثيق |
-| 7 | _يُضاف لاحقاً_ | | | |
-| 8 | _يُضاف لاحقاً_ | | | |
-| 9 | _يُضاف لاحقاً_ | | | |
+| 1 | [CSS — Cyber Sentinel System](projects/css-cyber-sentinel/) | Raspberry Pi 5 / Kali | مختبر أمن سيبراني محمول | نموذج أولي |
+| 2 | [Cyber Shield](projects/cyber-shield/) | ESP32 | كشف تهديدات لاسلكية ومراقبة | نموذج أولي متقدم |
+| 3 | [Evil Twin Detector](projects/evil-twin-detector/) | Raspberry Pi Pico W | كشف نقاط الوصول المزيفة | نموذج أولي |
+| 4 | [TV Box HomeSOC](projects/tv-box-homesoc/) | Android TV Box + Linux | مركز عمليات أمنية مصغّر | نموذج أولي |
+| 5 | [TSS — Tactical SIGINT Suite](projects/tss-tactical-sigint/) | SDR + حوسبة طرفية | استطلاع وتحليل طيف ترددي | قيد التطوير |
+| 6 | [CS SOC — Cyber Spectrum SOC](projects/cs-soc/) | SDR + ذكاء اصطناعي | منظومة دفاع ومراقبة سيبرانية | قيد التطوير |
+| — | [Wireless Security Tester](projects/wireless-security-tester/) | ESP32 | أداة اختبار أمن لاسلكي (مختبري) | نموذج أولي |
+
+> جميع المشاريع ذات طابع تعليمي ودفاعي، وتُستخدم ضمن بيئات مختبرية ومصرّح بها فقط، التزاماً بأخلاقيات وقوانين الأمن السيبراني.
 
 </div>
 
@@ -22,12 +22,10 @@
 
 ## Project template
 
-Each project folder follows the same structure:
+Each project folder contains:
 
 ```
 project-name/
-├── README.md        ← overview, problem, solution, screenshots
-├── docs/            ← design documents, diagrams
-├── hardware/        ← schematics, BOM (if any)
-└── src/             ← source code
+├── README.md        ← overview, objectives, components, status
+└── (images / docs added over time)
 ```

@@ -2,11 +2,11 @@
 
 # CYBER IQ
 
-**Cybersecurity · Networks · Software · Artificial Intelligence**
+**الأمن السيبراني · الشبكات · البرمجة · الذكاء الاصطناعي**
 
-Baghdad, Iraq
+فريق تقني طلابي — الجامعة العراقية، كلية الهندسة · قسم هندسة الشبكات والأمن السيبراني · بغداد، العراق
 
-[Company Profile](COMPANY_PROFILE.md) · [Projects](PROJECTS.md) · [Workshops](WORKSHOPS.md)
+[الملف التعريفي](COMPANY_PROFILE.md) · [المشاريع](PROJECTS.md) · [الورش والنشاطات](WORKSHOPS.md) · [الفريق](TEAM.md)
 
 </div>
 
@@ -14,32 +14,35 @@ Baghdad, Iraq
 
 <div dir="rtl">
 
-## من نحن
+## نبذة عامة
 
-**سايبر آي كيو (Cyber IQ)** فريق تقني متخصص في الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي. انطلق من قسم هندسة الشبكات والأمن السيبراني في كلية الهندسة بالجامعة العراقية، ويعمل اليوم على بناء حلول أمنية عملية، من العتاد إلى البرمجيات، تناسب احتياجات المؤسسات العراقية.
+**سايبر آي كيو (Cyber IQ)** فريق تقني طلابي متخصص في الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي، في قسم هندسة الشبكات والأمن السيبراني بكلية الهندسة — الجامعة العراقية. قدّم الفريق خلال عام 2026 مجموعة من الأعمال والنشاطات التطوعية المجانية بهدف دعم الطلبة وتطوير البيئة التعليمية والتقنية داخل الجامعة.
 
 ## الرؤية
 
-أن نكون مرجعاً عراقياً موثوقاً في الأمن السيبراني، يبني حلوله محلياً ويصدّر خبرته.
+أن نكون مرجعاً عراقياً موثوقاً في الأمن السيبراني، يبني حلوله محلياً ويطوّر كوادره.
 
 ## الرسالة
 
-نصمم ونطور أنظمة حماية ورصد وتحليل بأيدٍ عراقية، وندرّب جيلاً جديداً من المختصين عبر الورش والمشاريع التطبيقية.
+نصمم ونطوّر أنظمة حماية ورصد وتحليل بأيدٍ عراقية، وندرّب جيلاً جديداً من المختصين عبر الورش والمشاريع التطبيقية.
 
-## مجالات العمل
+## ماذا نعمل
 
-| المجال | ما نقدمه |
+| المجال | الوصف |
 |---|---|
-| مراكز العمليات الأمنية (SOC) | تصميم وبناء أنظمة رصد ومراقبة منخفضة الكلفة |
-| أمن الشبكات اللاسلكية | كشف الهجمات مثل نقاط الوصول المزيفة (Evil Twin) |
-| الأنظمة المدمجة والعتاد | أجهزة حماية ورصد مبنية على عتاد مفتوح |
-| الذكاء الاصطناعي في الأمن | أدوات تحليل وأتمتة مدعومة بالذكاء الاصطناعي |
-| التدريب | ورش عمل تطبيقية في الأمن السيبراني والشبكات |
+| مراكز العمليات الأمنية (SOC) | بناء منظومات رصد ومراقبة وتحليل أحداث منخفضة الكلفة |
+| أمن الشبكات اللاسلكية | كشف التهديدات مثل التوأم الخبيث (Evil Twin) ونقاط الوصول المارقة |
+| الأنظمة المدمجة وحلول العتاد | أجهزة رصد وحماية مبنية على Raspberry Pi و ESP32 |
+| الاستطلاع وتحليل الطيف الترددي | منظومات تحليل إشارات وكشف تهديدات لاسلكية |
+| التدريب وبناء البنية التحتية | ورش عمل، وتجهيز مختبرات، وصيانة أجهزة |
 
-## بالأرقام
+## أبرز الإنجازات في 2026
 
-- **9** مشاريع عتاد وبرمجيات
-- **4** ورش عمل تدريبية
+- **ورشتان تدريبيتان** لطلبة الجامعة (مقدمة في الأمن السيبراني + CTF).
+- **بناء مختبر أمن سيبراني** من الصفر: 30 حاسبة وسيرفرين وبنية شبكة كاملة.
+- **صيانة وتأهيل 150 حاسبة محمولة** موزعة على 3 مختبرات.
+- **ستة مشاريع عتاد وبرمجيات** في الأمن السيبراني (راجع [المشاريع](PROJECTS.md)).
+- المشاركة في معرض **ITEX IRAQ 2026** في أرض معرض بغداد الدولي.
 
 </div>
 
@@ -47,27 +50,37 @@ Baghdad, Iraq
 
 ## About (English)
 
-**Cyber IQ** is an Iraqi technical team specialising in cybersecurity, networking, software and AI. Born in the Networks & Cybersecurity Engineering department at Al-Iraqia University, College of Engineering, the team builds practical security solutions, from hardware to software, for Iraqi organisations.
+**Cyber IQ** is a student technical team specialising in cybersecurity, networking, software and AI, based in the Networks & Cybersecurity Engineering department, College of Engineering, Al-Iraqia University (Baghdad, Iraq). In 2026 the team delivered volunteer work supporting students and upgrading the department's technical environment.
 
-- **Vision:** a trusted Iraqi reference in cybersecurity, building locally and exporting expertise.
-- **Mission:** design and build protection, monitoring and analysis systems in Iraq, and train the next generation of specialists through hands-on workshops and projects.
+- **Vision:** a trusted Iraqi reference in cybersecurity, building locally and developing its own talent.
+- **Mission:** design and build protection, monitoring and analysis systems in Iraq, and train the next generation through hands-on workshops and projects.
+
+**2026 highlights:** 2 training workshops · a cybersecurity lab built from scratch (30 PCs, 2 servers) · 150 laptops serviced across 3 labs · 6 hardware/software security projects · ITEX IRAQ 2026.
 
 ## Repository layout
 
 ```
 CyberIQ/
-├── README.md            ← you are here
-├── COMPANY_PROFILE.md   ← company profile (CV)
-├── PROJECTS.md          ← project portfolio
-└── WORKSHOPS.md         ← training & workshops
+├── README.md              ← this page
+├── COMPANY_PROFILE.md     ← company profile / CV
+├── PROJECTS.md            ← project portfolio index
+├── WORKSHOPS.md           ← workshops & practical activities
+├── TEAM.md                ← team members
+├── projects/              ← one folder per project
+│   ├── css-cyber-sentinel/
+│   ├── cyber-shield/
+│   ├── evil-twin-detector/
+│   ├── tv-box-homesoc/
+│   ├── tss-tactical-sigint/
+│   ├── cs-soc/
+│   └── wireless-security-tester/
+└── assets/img/            ← shared images
 ```
-
-Each project will live in its own folder (or its own repository under [CYBERIQ-HQ](https://github.com/CYBERIQ-HQ)) as it is published.
 
 ---
 
 <div align="center">
 
-© 2026 Cyber IQ — CYBERIQ-HQ
+© 2026 Cyber IQ — [CYBERIQ-HQ](https://github.com/CYBERIQ-HQ)
 
 </div>
