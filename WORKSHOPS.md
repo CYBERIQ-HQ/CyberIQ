@@ -2,58 +2,28 @@
 
 <div dir="rtl">
 
-نشاطات فريق **سايبر آي كيو** التدريبية والعملية، جميعها تطوعية ومجانية.
+ورش **سايبر تيم** التدريبية ونشاطاته العملية. لكل ورشة ونشاط مستودع مستقل فيه الصور والتفاصيل الكاملة، وجميعها نُفّذت بصورة تطوعية ومجانية.
 
 ## الورش التدريبية
 
-### 1. ورشة آفاق التعليم الأكاديمي والمهني
+| الورشة | المحاور | العرض التفاعلي |
+|---|---|---|
+| [ورشة آفاق التعليم الأكاديمي والمهني](https://github.com/CYBERIQ-HQ/Workshop-Academic-Horizons) | الشبكات، أنظمة التشغيل، البرمجة، الأمن السيبراني (Red Team / Blue Team)، الجانب الأكاديمي، المسارات المهنية | [Workshop2](https://github.com/hfsduu5-coder/Workshop2) |
+| [ورشة CTF & Cybersecurity](https://github.com/CYBERIQ-HQ/Workshop-CTF) | Cryptography، Web Exploitation، Digital Forensics، Reverse Engineering، Binary Exploitation، Network Security | [Workshop3](https://github.com/hfsduu5-coder/Workshop3) |
 
-ورشة تعليمية تفاعلية تقدّم للطالب تصوّراً شاملاً عن دراسة هندسة الشبكات والأمن السيبراني، وتربط الجانب الأكاديمي بالمهارات التقنية والمسارات المهنية المستقبلية. قُدّم محتواها على شكل خارطة طريق عبر واجهة HTML مخصصة.
-
-- **المحاور:** الشبكات، أنظمة التشغيل، البرمجة، الأمن السيبراني (Red Team / Blue Team)، الجانب الأكاديمي، المسارات المهنية.
-- **الفئة المستهدفة:** طلبة القسم والمهتمون بالدخول إلى مجال الأمن السيبراني.
-
-<p align="center"><img src="assets/img/workshop.jpg" width="640" alt="ورشة تدريبية"></p>
-
-### 2. ورشة CTF & Cybersecurity
-
-ورشة تدريبية عملية تعرّف المشاركين بمسابقات Capture The Flag وتخصصات الأمن السيبراني، وتنقلهم من الأساسيات التقنية إلى حل التحديات الأمنية ضمن بيئة تدريبية آمنة.
-
-- **المحاور:** Cryptography، Web Exploitation، Digital Forensics، Reverse Engineering، Binary Exploitation، Network Security.
-- **المسار:** من الأساسيات (Networking / Linux / Windows / Programming) إلى الأمن السيبراني فالتطبيق العملي.
-- **الفئة المستهدفة:** طلبة الأمن السيبراني وهندسة الشبكات والمبتدئون في CTF.
-- **التركيز الأخلاقي:** تأكيد الاستخدام القانوني للأدوات ضمن البيئات المصرّح بها فقط.
+<p align="center"><img src="https://raw.githubusercontent.com/CYBERIQ-HQ/Workshop-Academic-Horizons/main/workshop.jpg" width="640" alt="ورشة آفاق التعليم الأكاديمي والمهني"></p>
 
 ## النشاطات العملية
 
-### 3. تجهيز وتأهيل مختبر الأمن السيبراني
+| النشاط | التفاصيل | المدة |
+|---|---|---|
+| [تجهيز وتأهيل مختبر الأمن السيبراني](https://github.com/CYBERIQ-HQ/Cybersecurity-Lab-Setup) | 30 حاسبة، سيرفران، تمديد شبكة LAN، إعداد وبرمجة راوتر | أسبوع إلى عشرة أيام |
+| [صيانة وتأهيل الحاسبات المختبرية](https://github.com/CYBERIQ-HQ/Laptop-Maintenance) | 150 حاسبة محمولة في 3 مختبرات: هاردوير وسوفتوير | 3 إلى 4 أسابيع |
 
-بناء البنية التحتية التقنية لمختبر الأمن السيبراني في القسم من الصفر.
-
-| البند | التفصيل |
-|---|---|
-| الحاسبات | 30 حاسبة مجهّزة ومربوطة بالشبكة |
-| السيرفرات | 2 سيرفر (تجميع، تركيب، إعداد، برمجة) |
-| الشبكة | تمديد كابلات LAN، تجهيز منافذ، إعداد وبرمجة راوتر |
-| طبيعة العمل | Hardware · Networking · Servers · Software · Configuration · Testing |
-| المدة | أسبوع إلى عشرة أيام |
-
-<p align="center"><img src="assets/img/lab.jpg" width="640" alt="مختبر الأمن السيبراني"></p>
-
-### 4. ورشة صيانة وتأهيل الحاسبات المختبرية
-
-صيانة وتأهيل أجهزة الحاسوب المحمولة الخاصة بمختبرات القسم وإعادتها إلى الخدمة.
-
-| البند | التفصيل |
-|---|---|
-| عدد الأجهزة | 150 حاسبة محمولة |
-| المختبرات | 3 مختبرات |
-| أعمال الهاردوير | فحص، استبدال وحدات تخزين، ترقية RAM، معالجة أعطال، تنظيف |
-| أعمال السوفت وير | إعادة تنصيب Windows، تعريفات، برامج، ضبط إعدادات، فحص |
-| المدة | 3 إلى 4 أسابيع، بدوام يومي من 8:00 صباحاً حتى 4:00 عصراً |
-| عدد المنفّذين | 10 أعضاء |
-
-<p align="center"><img src="assets/img/maintenance.jpg" width="640" alt="صيانة الحاسبات"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/CYBERIQ-HQ/Cybersecurity-Lab-Setup/main/lab.jpg" width="420" alt="مختبر الأمن السيبراني">
+<img src="https://raw.githubusercontent.com/CYBERIQ-HQ/Laptop-Maintenance/main/maintenance.jpg" width="420" alt="صيانة الحاسبات">
+</p>
 
 ## الفعاليات والمعارض
 
@@ -62,3 +32,11 @@
 | ITEX IRAQ 2026 | 30 أيلول – 3 تشرين الأول 2026 | أرض معرض بغداد الدولي | حضور |
 
 </div>
+
+---
+
+## English summary
+
+**Workshops:** Academic & Professional Horizons ([live](https://github.com/hfsduu5-coder/Workshop2)) · CTF & Cybersecurity ([live](https://github.com/hfsduu5-coder/Workshop3)).
+**Activities:** cybersecurity lab built from scratch (30 PCs, 2 servers, LAN, router) · 150 laptops restored across 3 labs.
+**Events:** ITEX IRAQ 2026, Baghdad International Fairgrounds (attended).
